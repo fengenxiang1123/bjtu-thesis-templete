@@ -6,7 +6,8 @@
 
 # github
 https://github.com/xfdywy/bjtu-thesis-templete \
-https://github.com/yuweia/BJTU-thesis-templete
+https://github.com/yuweia/BJTU-thesis-templete \
+https://github.com/gzzang/bjtu_template \
 
 
 # 知行论坛
