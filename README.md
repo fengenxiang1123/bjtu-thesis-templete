@@ -7,7 +7,8 @@
 # github
 https://github.com/xfdywy/bjtu-thesis-templete \
 https://github.com/yuweia/BJTU-thesis-templete \
-https://github.com/gzzang/bjtu_template 
+https://github.com/gzzang/bjtu_template \
+https://github.com/xuyangcao/bjtu_phd_thesis_templete
 
 
 # 知行论坛
