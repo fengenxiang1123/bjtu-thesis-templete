@@ -5,7 +5,7 @@
 搜索词相关。此段是为了能直接搜索到该repository.  硕士毕业论文latex模版；博士毕业论文latex模版；
 
 # github
-https://github.com/xfdywy/bjtu-thesis-templete
+https://github.com/xfdywy/bjtu-thesis-templete \
 https://github.com/yuweia/BJTU-thesis-templete
 
 
