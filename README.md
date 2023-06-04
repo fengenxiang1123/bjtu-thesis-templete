@@ -27,6 +27,8 @@ https://zhixing.bjtu.edu.cn/thread-1174300-1-1.html
 # 模板问题及解决方案
 注释乱码。  编码问题，用gb2312打开就不乱码了。
 
+https://github.com/xuyangcao/bjtu_phd_thesis_templete 此模板上更新。230505 可设置单双页；通过 \linespread{1.4} \selectfont 来设置正文行距； 简历后部分 字体需要修改为五号 行距 \songti\zihao{5} \linespread{1.269} \selectfont，  数据集中也要增加此命令； 数据集的更宽需要调整 使用 Excel2LaTeX 可获取最新列宽。
+
 # 建议
 知行之前的贴子已经提到 \
 “ 随便搜了一下，就能搜到很多呼唤latex模板的帖子：
